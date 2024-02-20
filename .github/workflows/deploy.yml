@@ -13,4 +13,4 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           repository: ${{ matrix.repo }}
           event-type: update
-          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "lisandra-dev/content", "branch": "main"}'
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "module": "content", "branch": "main"}'

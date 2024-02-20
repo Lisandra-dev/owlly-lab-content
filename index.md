@@ -8,7 +8,7 @@ cssclasses:
 icon: owl
 ---
 
-![[./img/avatar_index.gif|+rside]]
+![[./_assets/meta/avatar_index.gif|+rside]]
 Bonjour, je suis Mara. Je suis étudiante en Santé Publique, et j'ai pour hobby la programmation, le Roleplay et les jeux-vidéos. Ce site me permet de présenter mes projets, mes personnages, mes univers et mes outils.
 
 <br/>

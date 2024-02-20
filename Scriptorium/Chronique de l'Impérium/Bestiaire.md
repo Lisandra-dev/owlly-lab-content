@@ -38,7 +38,7 @@ share: true
   Un monstre SSS peut taper deux fois chaque combattant, à distance et au corps à corps.
 
 > [!info] Spectre - Rang S
-> ![[../../img/Spectre_CDI.png|+side-sm]]PV : 12
+> ![[../../_assets/img/Spectre_CDI.png|+side-sm]]PV : 12
 > Cuirasse : 70%
 > Résistance : ???
 > Faiblesse : ???
@@ -50,7 +50,7 @@ share: true
 > Karma : 3
 
 > [!info] CONTRACTANT - Sang SSS
-> ![[../../img/cdi2.png|+side]]_Observé en Afrique de l'Ouest - Dakar_
+> ![[../../_assets/img/cdi2.png|+side]]_Observé en Afrique de l'Ouest - Dakar_
 > Résistance : ???
 > Malus : ???
 > PV : Forme une 50 | Forme deux : 150
@@ -63,7 +63,7 @@ share: true
 > Karma : 4
 
 > [!info] YETI - Rang B
-> ![[../../img/CDI_Bestiaire_3.png|+side]]PV : 100 (non blessé)
+> ![[../../_assets/img/CDI_Bestiaire_3.png|+side]]PV : 100 (non blessé)
 > Cuirasse : 20%
 > Force : 4
 > Endurance : 4
@@ -85,7 +85,7 @@ share: true
 > Karma : X
 
 > [!info] Guane - Rang B
-> ![[../../img/CDI_Iguane.png|+side]]PV : 20  
+> ![[../../_assets/img/CDI_Iguane.png|+side]]PV : 20  
 > Cuirasse : 0%
 > Résistance : Maladie
 > Faiblesse : ???
@@ -97,7 +97,7 @@ share: true
 > Karma : 3
 
 > [!info] Infernovine - Rang S
-> ![[../../img/CDI_Bestiaire_2.png|+side]]PV : 300  
+> ![[../../_assets/img/CDI_Bestiaire_2.png|+side]]PV : 300  
 > Cuirasse : 20%
 > Résistance : /// Faiblesse : ///
 > Force : 7
@@ -109,15 +109,13 @@ share: true
 >
 > > [!use] Compétence
 > >
-> > - Hurlement d'horreur [**PERCEPTION**] : Les personnes autour sont désorientés : malus (+1) sur toutes leurs caractéristiques [Défense : PERCEPTION]
-> >   _Type : Malus_
+> > - Hurlement d'horreur [**PERCEPTION**] : Les personnes autour sont désorientés : malus (+1) sur toutes leurs caractéristiques [Défense : PERCEPTION] > > _Type : Malus_
 > > - Poing destructeur [**FORCE**] : AOE - Attaque sur le sol qui crée des pics autour de lui
 > >   _Type : Burst_
-> > - Enchaînement [**Agilité**] : Attrape sa cible pour lui infliger des dégâts perforant - La cible est enchainée et a besoin d'être libérée [Défense : Agilité puis endurance] [Libération : après une attaque réussie]
-> >   _Type : Perforant - Schéma_
+> > - Enchaînement [**Agilité**] : Attrape sa cible pour lui infliger des dégâts perforant - La cible est enchainée et a besoin d'être libérée [Défense : Agilité puis endurance] [Libération : après une attaque réussie] > > _Type : Perforant - Schéma_
 
 > [!info] Chien zombie - Rang N
-> ![[../../img/CDI_Bestiaire_C.png|+side]]PV : 80
+> ![[../../_assets/img/CDI_Bestiaire_C.png|+side]]PV : 80
 > Cuirasse : /
 > Résistance : Maladie / Poison
 > Faiblesse : Mental
@@ -134,7 +132,7 @@ share: true
 > >   _Type : Burst_
 
 > [!info] Masque brûlé - Rang S
-> ![[../../img/CDI_Bestiaire_Masque.png|+side]] PV : 800  
+> ![[../../_assets/img/CDI_Bestiaire_Masque.png|+side]] PV : 800  
 > Cuirasse : 40%
 > Résistance : ///
 > Faiblesse : ///
@@ -155,7 +153,7 @@ share: true
 > >   _Type : **ALTERATION** _
 
 > [!info] GRIGORI RASPOUTINE - Rang SSS
-> ![[../../img/CDI_Best_Rasp.png|+side-sm]]PV : 1300  
+> ![[../../_assets/img/CDI_Best_Rasp.png|+side-sm]]PV : 1300  
 > Cuirasse : 60%
 > Force : 9
 > Endurance : 9

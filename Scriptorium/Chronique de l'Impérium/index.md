@@ -48,4 +48,4 @@ En 1949, grâce à l'aide des Arcanistes et d'une des chef de l'unité 731, le p
 - 30 Avril 1946 : Allocution de Masayori Noriyasu à la télévision.
 - 30 Avril 1949 : Inauguration de l'Arcadia le jour de l'anniversaire de l'allocution de l'Impératrice.
 - 1950 : Début du Roleplay.
-  ![[../../img/CDI_Map.png|CDI_Map.png]]
+  ![[../../_assets/img/CDI_Map.png|CDI_Map.png]]

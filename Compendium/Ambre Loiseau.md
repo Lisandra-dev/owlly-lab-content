@@ -19,8 +19,8 @@ tags:
   - Méchante
 ---
 
+![[../_assets/img/Ambre_PP.jpeg|+side]]
 
- ![[../img/Ambre_PP.jpeg|+side]]
 <h1 align="center"> ◄ G E N E R A L ►</h1>
 
 **► Nom :** Loiseau
@@ -32,7 +32,6 @@ tags:
 **► Métier :** Médecin légiste
 
 <h1 align="center">CONTROLE DE LA BIOMASSE – VIRUS ZOMBIE</h1>
-
 
 Décrit comme un zombie et infectée par un virus unique, elle est capable de se modifier physiquement. Elle peut créer des excroissances de chair ou d’os, modifier sa peau pour être plus solide ou simplement pour frapper plus fort. Elle peut se régénérer à l’infini, mais il lui faut un laps de temps plus ou moins long en fonction de ses blessures. De plus, elle a des réflexes qui sont énormément améliorés.
 

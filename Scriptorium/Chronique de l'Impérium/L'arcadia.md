@@ -7,14 +7,14 @@ share: true
 
 # Le mess
 
-![[../../img/cdi_mess.jpg|+side]]La cantine qui ne dort jamais et où il n'y règne qu'un vacarme infernale à toute heure de la journée. La nourriture est assez correct, mais est surtout destinée pour les soldats qui sont incapables de tenir correctement une poêle ou qui n'ont pas un rang assez élevé pour avoir leur propre quartier avec cuisine.
+![[../../_assets/img/cdi_mess.jpg|+side]]La cantine qui ne dort jamais et où il n'y règne qu'un vacarme infernale à toute heure de la journée. La nourriture est assez correct, mais est surtout destinée pour les soldats qui sont incapables de tenir correctement une poêle ou qui n'ont pas un rang assez élevé pour avoir leur propre quartier avec cuisine.
 La nourriture est internationale et il y en a pour tous les goûts. A savoir que la nourriture est gratuite.
 
 Elle est connectée au lotissement et il n'est pas rare de voir des recrues manger le repas qu'ils ont eu même cuisiné.
 
 # Les lotissements
 
-![[../../img/cdi_arcadia.jpg|+side]]La majorité des soldats qui se trouvent sur l'Arcadia se trouve ici. La majorité des quartiers des recrues ne possèdent qu'une chambre, mais les hauts gradés vivent dans des appartements plus grand, qui possèdent toutes les commodités, notamment des cuisines ou encore des douches individuelles.
+![[../../_assets/img/cdi_arcadia.jpg|+side]]La majorité des soldats qui se trouvent sur l'Arcadia se trouve ici. La majorité des quartiers des recrues ne possèdent qu'une chambre, mais les hauts gradés vivent dans des appartements plus grand, qui possèdent toutes les commodités, notamment des cuisines ou encore des douches individuelles.
 
 La plupart des bâtiments possèdent des cuisines et des douches communes, pour les recrues voulant cuisiner.
 
@@ -22,19 +22,19 @@ Généralement, c'est un quartier plutôt calme, et très bien surveillé. Cepen
 
 # Le canal
 
-![[../../img/cdi_arcadia_3.jpg|+side]]Un endroit calme où les soldats apprécie faire du vélo, courire ou simplement se reposer le long des quais.
+![[../../_assets/img/cdi_arcadia_3.jpg|+side]]Un endroit calme où les soldats apprécie faire du vélo, courire ou simplement se reposer le long des quais.
 
 Sa création a été quelque peu difficile, mais aujourd'hui, on peut même y pécher. Ce canal est alimenté par les eaux de pluies, et les eaux recyclés, et rejoint le lac. On peut aussi y faire un tour en péniche moyennant quelque Yen.
 
 # Le parc et le lac
 
-![[../../img/cdi_arcadia_4.jpg|+side]]Créée par les meilleurs architectes japonais, le parc a une ambiance extrêmement zen, et nombreux sont les soldats en permissions qui viennent y faire la sieste, écrire ou dessiner : bref, se reposer.
+![[../../_assets/img/cdi_arcadia_4.jpg|+side]]Créée par les meilleurs architectes japonais, le parc a une ambiance extrêmement zen, et nombreux sont les soldats en permissions qui viennent y faire la sieste, écrire ou dessiner : bref, se reposer.
 
 La plupart du temps, les fêtes japonaises se font ici.
 
 # Installations scientifiques
 
-![[../../img/cdi_arcadia_5.jpg|+side]]Le haut lieu de la recherche et surtout, le quartier général de l'Unité 731. Il contient de nombreux laboratoire de magie, mais aussi de biologie, physique, chimie… Bref : c'est une université au sens propre du terme.
+![[../../_assets/img/cdi_arcadia_5.jpg|+side]]Le haut lieu de la recherche et surtout, le quartier général de l'Unité 731. Il contient de nombreux laboratoire de magie, mais aussi de biologie, physique, chimie… Bref : c'est une université au sens propre du terme.
 
 Il contient aussi l'hôpital général de l'Arcadia.
 
@@ -42,7 +42,7 @@ Il y a pas mal d'usine à cet endroit, mais le lieu n'est pas vraiment pollué. 
 
 # Quartier commerçant
 
-![[../../img/cdi_arcadia_6.jpg|+side]]Situé un peu plus loin du parc, ce lieu à ciel ouvert contient quelque magasin, notamment de vêtements civils, nourriture, quelques pâtisseries, papeterie… Elle est géré par, parfois, des membres de la famille de certains soldats, mais en majorité par des japonais qui ont un contrat exclusif avec l'armée, sans être des soldats : bref, des sortes de semi-civil.
+![[../../_assets/img/cdi_arcadia_6.jpg|+side]]Situé un peu plus loin du parc, ce lieu à ciel ouvert contient quelque magasin, notamment de vêtements civils, nourriture, quelques pâtisseries, papeterie… Elle est géré par, parfois, des membres de la famille de certains soldats, mais en majorité par des japonais qui ont un contrat exclusif avec l'armée, sans être des soldats : bref, des sortes de semi-civil.
 
 Il y a, en majorité, le meilleur de ce qu'on peut trouver dans le monde, mais à des prix tout à fait correct. Il y a même, parfois, des produits introuvables ailleurs, ou des test.
 
@@ -50,7 +50,7 @@ On retrouve, plus loin, le quartier des plaisir, mais aussi un bar.
 
 # Le bar
 
-![[../../img/cdi_arcadia_7.jpg|+side]]L'endroit où quasiment tous les soldats, de toutes les nationalités, se retrouvent. Ni calme, ni reposant, avec jukebox et chahut offert. On y retrouve tous les alcools possibles, et il y flotte une odeur de bière.
+![[../../_assets/img/cdi_arcadia_7.jpg|+side]]L'endroit où quasiment tous les soldats, de toutes les nationalités, se retrouvent. Ni calme, ni reposant, avec jukebox et chahut offert. On y retrouve tous les alcools possibles, et il y flotte une odeur de bière.
 
 En plus de l'alcool, on y sert toute sorte de petit plats, mais rien qui pourrait remplacer le Mess, c'est plutôt des apéritifs.
 
@@ -60,7 +60,7 @@ En tout cas, on peut largement s'y reposer avant de partir dans une nouvelle mis
 
 # Quartier des plaisirs
 
-![[../../img/cid_arcadia_8.jpg|+side-sm]]Situé dans une rue adjacente au bar et au quartier commerçant, c'est une toute petite rue où se trouve, entre autres, un bain japonais, mais aussi des Geisha, un bar à hôtesse et, évidemment, quelques prostituée. D'inspiration très japonaise, la majorité des panneaux sont dans cette langue (bien qu'avec les sortilège de Babel, ce ne soit pas un soucis).
+![[../../_assets/img/cid_arcadia_8.jpg|+side-sm]]Situé dans une rue adjacente au bar et au quartier commerçant, c'est une toute petite rue où se trouve, entre autres, un bain japonais, mais aussi des Geisha, un bar à hôtesse et, évidemment, quelques prostituée. D'inspiration très japonaise, la majorité des panneaux sont dans cette langue (bien qu'avec les sortilège de Babel, ce ne soit pas un soucis).
 
 Il n'y a pas de jeux d'argents puisque fortement prohibé à bord de l'Arcadia.
 

@@ -154,7 +154,7 @@ YEUX GRIS : Voir VOYAGEUR – Tous les voyageurs connus ont des yeux gris assez
 
 ZOMBIE : Voir MORT-VIVANT – Le premier lazare connu venait d’Haïti. Le mot « zombie «  semble en être originaire.
 
-![[../../img/CDI_Logo.png|CDI_Logo.png]]
+![[../../_assets/img/CDI_Logo.png|CDI_Logo.png]]
 
 # Les quadrants
 

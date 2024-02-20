@@ -17,6 +17,6 @@ tags:
 %%[[./index|Hayleen May]]%%
 
 > [!GRID]
->![[../../img/Portrait_Gabi_Hayleen.jpeg|Portrait_Gabi_Hayleen.jpeg]]![[../../img/fullbody.png|fullbody.png]]
+> ![[../../_assets/img/Portrait_Gabi_Hayleen.jpeg|Portrait_Gabi_Hayleen.jpeg]]![[../../_assets/img/fullbody.png|fullbody.png]]
 >
->![[../../img/draft_medhas.png|draft_medhas.png]]![[../../img/portrait_perso.png|portrait_perso.png]]![[../../img/Illustration-Kai.jpeg|Illustration-Kai.jpeg]] ![[../../img/COMMISSION_MARA_PP.png|COMMISSION_MARA_PP.png]]
+> ![[../../_assets/img/draft_medhas.png|draft_medhas.png]]![[../../_assets/img/portrait_perso.png|portrait_perso.png]]![[../../_assets/img/Illustration-Kai.jpeg|Illustration-Kai.jpeg]] ![[../../_assets/img/COMMISSION_MARA_PP.png|COMMISSION_MARA_PP.png]]

@@ -25,34 +25,38 @@ share_updated: 2024-01-28T20:10:13+01:00
 icon_file: "[[_assets/_PLUGINS/icons/rpg-awesome/Knife.svg|Knife]]"
 icon: rpg-awesome/Knife
 ---
+
 > [!wiki]
-> # Lucrezia Valentina
-> ![[../../img/Lucrezia.png|Lucrezia.png]]
 >
-> |  |  |
-> | ---- | ---- |
-> |**Genre** | F |
-> | **Âge**| 30 |
+> # Lucrezia Valentina
+>
+> ![[../../_assets/img/Lucrezia.png|Lucrezia.png]]
+>
+> |           |     |
+> | --------- | --- |
+> | **Genre** | F   |
+> | **Âge**   | 30  |
 >
 > ### Profil
 >
-> |||
-> |-|-|
-> |**Date d'arrivée dans l'organisation** | 19/03/1823 |
-> |**Rôle** | Chasseur d'élite |
-> |**Grade** |/|
+> |                                        |                  |
+> | -------------------------------------- | ---------------- |
+> | **Date d'arrivée dans l'organisation** | 19/03/1823       |
+> | **Rôle**                               | Chasseur d'élite |
+> | **Grade**                              | /                |
 >
 > ### Apparence
 >
-> |||
-> | --|--|
-> |**Taille** | 1.60 |
-> |**Cheveux** | Noirs |
-> |**Yeux** | Gris, très clairs |
-> |**Peau** | Blanche |
-> |**Traits notables**| Cicatrice sous l'œil droit|
+> |                     |                            |
+> | ------------------- | -------------------------- |
+> | **Taille**          | 1.60                       |
+> | **Cheveux**         | Noirs                      |
+> | **Yeux**            | Gris, très clairs          |
+> | **Peau**            | Blanche                    |
+> | **Traits notables** | Cicatrice sous l'œil droit |
 
 # Physique
+
 ---
 
 Lucrezia est une jeune femme aux cheveux noirs coupés courts. Son visage, en cœur, possède un petit nez retroussé et des lèvres pulpeuses la rendant particulièrement belle, et ce n'est pas la cicatrice qui se trouve sous son œil qui vous dira le contraire.
@@ -71,7 +75,9 @@ Lucrezia, en dehors de sa tenue de "travail" décrite plus haut, est généralem
 Si elle doit donc se forcer, elle préfèrera les chemises blanches, les jupes mi-longue, et des bottines. Elle évite tout ce qui est corset (ou des léger) et cachera dans ses vêtements toute lames dont elle aura l'usage.
 
 # Profil psychologique
+
 ---
+
 ## Caractère général
 
 Lucrezia est une ordure. Beaucoup décrivent la jeune femme comme ça. Ce n'est pas faux : Lucrezia n'éprouve aucune empathie. Froide, silencieuse, elle tue quand on le lui demande, et elle le fait bien.
@@ -95,6 +101,7 @@ On ne lui connaît pas de traumatisme particulier, mais elle est une assassin de
 - <u>Le surnom "Lulu"</u> : Je ne peux promettre qu'elle vous laissera en vie si vous l'appeler comme ça.
 
 # Biographie
+
 ---
 
 Lucrezia est née dans une famille bourgeoise d'une cité riche en aristocratie. Benjamine de deux frères, elle n'est ni sur la liste d'héritage ni à marier.
@@ -108,7 +115,9 @@ Non pas qu'elle n'a pas fait de rencontre désagréable, mais sachez le : commen
 Ayant vu les effets de cette magie impie, Lucrezia s'est fait contacté par la Rose, qui lui propose de les rejoindre. Lucrezia accepta l'offre, surtout pour rencontrer de nouveaux adversaires et détruire ceux qui pourraient mettre en danger l'Ordre et elle-même.
 
 # Armement
+
 ---
+
 ## ⌈ARME⌋ LA MANTELINE UMBRALE
 
 À l'apparence simple d'une étole sombre que Lucrezia porte comme une simple cape, la Manteline Umbrale est en vérité un accessoire (ou une arme, c'est selon) capable de se transformer en ombre. En s'en entourant, Lucrezia est capable de devenir une ombre. Littéralement. Bien que n'était pas tout à fait invisible, Lucrezia est capable de disparaître et se déplacer sans aucune difficulté.
@@ -128,5 +137,6 @@ Lucrezia ne sera pas une "flamme d'ombre" ou entièrement invisible : elle devie
 Lucrezia porte de nombreux équipements, notamment diverses lames, notamment des sabres courts et doubles qu'elle porte à la taille et qui sont ses armes principales.
 
 Elle possède en tout :
+
 - Six couteaux de lancés, 3 à chaque bras
 - Ainsi que ses deux sabres courts, qu'elle ne porte pas systématiquement (cela dépend donc de ses missions)

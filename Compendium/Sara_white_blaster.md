@@ -23,7 +23,7 @@ share_updated: 2023-12-29T23:01:31+01:00
 >
 > # SARA WHITE
 >
-> ![[../img/Sara-portrait.jpg|parseME]]
+> ![[../_assets/img/Sara-portrait.jpg|parseME]]
 >
 > |                |                           |
 > | -------------- | ------------------------- |
@@ -54,7 +54,7 @@ Malgré ses cicatrices, Sara n'est pas une femme laide. Musclée mais fine, elle
 
 Son visage, ovale et adulte, est marqué par un cache-œil, qui cache une longue cicatrice qui marque son œil gauche, devenu aveugle. Son œil restant, lui, est d'un bleu-gris envoutant. Elle porte de long cheveux blonds très clair, presque blanc, naturellement qu'elle attache en une queue de cheval. La trentenaire possède un petit nez et des lèvres charnues.
 
-![[../img/IMG_0758.jpeg|+rside]]
+![[../_assets/img/IMG_0758.jpeg|+rside]]
 
 ## Particularité
 
@@ -135,7 +135,7 @@ Auparavant, elle possédait une sorte d'armure (plus proche d'une combinaison) q
 ## Capacités débloquées
 
 > [!grid] > ![](https://i.pinimg.com/736x/7e/df/33/7edf333b711d16c85bc1e4b6fb09e62e.jpg)
-> ![[../img/kris-thaler-pistol-rev3a.jpg|kris-thaler-pistol-rev3a.jpg]]
+> ![[../_assets/img/kris-thaler-pistol-rev3a.jpg|kris-thaler-pistol-rev3a.jpg]]
 
 Sara possède deux armes :
 

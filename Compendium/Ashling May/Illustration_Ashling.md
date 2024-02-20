@@ -10,40 +10,47 @@ type: Illustration
 
 # 2017
 
->[!GRID]
->![[../../img/ref.png|ref]]![[../../img/hermite.png|hermite.png]]
+> [!GRID]
+> ![[../../_assets/img/ref.png|ref]]![[../../_assets/img/hermite.png|hermite.png]]
 >
->![[../../img/clothes.png|clothes.png]]
+> ![[../../_assets/img/clothes.png|clothes.png]]
 
 ---
+
 # 2018
-![[../../img/emotions.png|emotions.png]]
+
+![[../../_assets/img/emotions.png|emotions.png]]
 
 ---
+
 # 2019:
-![[../../img/ref.png|ref]]
+
+![[../../_assets/img/ref.png|ref]]
 
 # 2020
->[!GRID]
-> ![[../../img/project nucleus.png|project nucleus.png]]] ![[../../img/Unlimited blades Works.png|Unlimited blades Works.png]]
 
----
-# 2021
-![[../../img/Ashling_x_robot.png|500]]
-
----
-# Autres
 > [!GRID]
-> ![[../../img/futaba 2.png|+grid]] ![[../../img/futaba 2.png|+grid]]
->
-> ![[../../img/Futaba 1.png|+grid]] ![[../../img/SOLAUI-1-1.png|SOLAUI-1-1.png]] ![[../../img/ref chambre.png|ref chambre.png]] 
-> ![[../../img/ASH-LYNMAMECHI-1-1.png|ASH-LYNMAMECHI-1-1.png]] ![[../../img/don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg|don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg]]
+> ![[../../_assets/img/project nucleus.png|project nucleus.png]]] ![[../../_assets/img/Unlimited blades Works.png|Unlimited blades Works.png]]
 
+---
+
+# 2021
+
+![[../../_assets/img/Ashling_x_robot.png|500]]
+
+---
+
+# Autres
+
+> [!GRID]
+> ![[../../_assets/img/futaba 2.png|+grid]] ![[../../_assets/img/futaba 2.png|+grid]]
+>
+> ![[../../_assets/img/Futaba 1.png|+grid]] ![[../../_assets/img/SOLAUI-1-1.png|SOLAUI-1-1.png]] ![[../../_assets/img/ref chambre.png|ref chambre.png]]
+> ![[../../_assets/img/ASH-LYNMAMECHI-1-1.png|ASH-LYNMAMECHI-1-1.png]] ![[../../_assets/img/don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg|don-john-gatacilo-workstation-cyberpunk-style-1685914612863-1.jpg]]
 
 ---
 
 # Commission
 
 > [!GRID]
-> ![[../../img/Commission Feilyn.png|Commission Feilyn.png]] ![[../../img/solow.png|solow.png]] ![[../../img/Mimeowendormi.png|Mimeowendormi.png]]
-
+> ![[../../_assets/img/Commission Feilyn.png|Commission Feilyn.png]] ![[../../_assets/img/solow.png|solow.png]] ![[../../_assets/img/Mimeowendormi.png|Mimeowendormi.png]]

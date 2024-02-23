@@ -1,5 +1,9 @@
 name: Dispatch to repo
-on: [push, workflow_dispatch]
+on: 
+  push:
+    branches:
+      main
+  workflow_dispatch:
 jobs:
   dispatch:
     runs-on: ubuntu-latest

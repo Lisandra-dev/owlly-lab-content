@@ -48,8 +48,8 @@ Pouvoir: 15
 > | **Yeux** |Bleus|
 > | **Espèce** | Frostwolf (loup givré)|
 > | **Pays de naissance** | Russie (URSS) |
-> | **Expiration date** | 25/02/1988 |
-> | **Resident Since** | 25/02/1982 |
+> | **Expiration date** | 22/02/1988 |
+> | **Resident Since** | 22/02/1982 |
 >
 > ### Autres
 > ✅ Possède un permis de conduire

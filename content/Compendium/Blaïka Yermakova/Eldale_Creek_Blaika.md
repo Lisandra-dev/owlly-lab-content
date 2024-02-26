@@ -20,8 +20,10 @@ cssclasses:
   - hr-title
   - wiki-right
   - rside-10
+Naissance: 1949-12-31
 disabled rules:
   - heading-blank-lines
+dataview: true
 total: ""
 Force: 15
 Endurance: 12
@@ -31,7 +33,6 @@ Constitution: 13
 Intelligence: 7
 Charisme: 10
 Pouvoir: 15
-dataview: true
 ---
 > [!borderwiki]
 > # Blaïka Yermakova
@@ -41,7 +42,7 @@ dataview: true
 > | ---- | ---- |
 > | **Âge** | 32|
 > |**Sexe** | F |
-> | **Date de naissance** | 31/12/1949|
+> | **Date de naissance** | 1949-12-31T00:00:00.000+01:00|
 > | **Taille** | 1.88 (ft. 6.22) |
 > | **Poids** | 80kg (lbs. 176.37) |
 > | **Yeux** |Bleus|

@@ -20,7 +20,7 @@ cssclasses:
   - hr-title
   - wiki-right
   - rside-10
-Naissance: 1949-12-31
+naissance: 1949-12-31
 disabled rules:
   - heading-blank-lines
 dataview: true
@@ -42,7 +42,7 @@ Pouvoir: 15
 > | ---- | ---- |
 > | **Âge** | 32|
 > |**Sexe** | F |
-> | **Date de naissance** | 1949-12-31T00:00:00.000+01:00|
+> | **Date de naissance** | 31/12/1949|
 > | **Taille** | 1.88 (ft. 6.22) |
 > | **Poids** | 80kg (lbs. 176.37) |
 > | **Yeux** |Bleus|
@@ -134,7 +134,12 @@ Elle a un peu honte de cette forme lupine qui est parfois un peu trop excitée p
 # Passion & Hobbies
 - Les balades dans les grandes étendues sauvages
 - Lire
-# Peur et phobie : Feu
+# Peur et phobie : 
+- Pyrophobie (peur du feu)
+- __Claustrophobie__ : Blaïka ne se sent pas à l’aise dans des petites zones, car cela lui rappelle les cages des camps. C’est encore plus vrai lorsqu’elle est sous forme lupine.
+- __Agoraphobie__ : Elle n’a pas peur des grands espaces, mais plutôt l’idée d’être dans un lieu duquel elle ne pourrait s’échapper et d’être privée de liberté.
+
+
 # Biographie
 ---
 
@@ -158,9 +163,9 @@ Voyant que sa famille et ses proches ont tendance à se fourrer dans les problè
 
 Le fait qu'elle soit devenue policière n'est pas forcément vue d'un bon œil par son frère, avec qui elle s'entend mal. Ce dernier, bien qu'ayant jamais mis les pieds en Russie, considère que les Yermakov devraient retourner récupérer leur territoire. Pire, ce dernier se rapproche de groupes et de gangs et ce dernier se retrouve très souvent confronté à sa sœur dans son travail.
 
-La jeune femme travaille bien, est plusieurs fois promu et profite de sa vie (bien que célibataire). Mais, en 1980, elle est confrontée à son frère et sa famille, au point où ce dernier est envoyé en prison : Blaïka refusera de le défendre, d'être corrompu, et se met à dos l'ensemble de son clan. Chez les frostwolf, le bannissement est ce qui peut arriver de plus grave et, ne pouvant supporter d'avoir des contacts avec eux — ce qui augmente les risques de se faire agresser, elle et ses collègues — elle demande une mutation dans un autre état.
+La jeune femme travaille bien, est plusieurs fois promu et profite de sa vie (bien que célibataire). Mais, en 1981, elle est confrontée à son frère et sa famille, au point où ce dernier est envoyé en prison : Blaïka refusera de le défendre, d'être corrompu, et se met à dos l'ensemble de son clan. Chez les frostwolf, le bannissement est ce qui peut arriver de plus grave et, ne pouvant supporter d'avoir des contacts avec eux — ce qui augmente les risques de se faire agresser, elle et ses collègues — elle demande une mutation dans un autre état.
 
-Elle se retrouve donc à Eldale Creek au début de l'année 1981.
+Elle se retrouve donc à Eldale Creek au début de l'année 1982.
 
 
 # Pouvoirs

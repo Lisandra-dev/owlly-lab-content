@@ -20,8 +20,10 @@ cssclasses:
   - hr-title
   - wiki-right
   - rside-10
+naissance: 1949-12-31
 disabled rules:
   - heading-blank-lines
+dataview: true
 total: ""
 Force: 15
 Endurance: 12
@@ -31,35 +33,29 @@ Constitution: 13
 Intelligence: 7
 Charisme: 10
 Pouvoir: 15
-dataview: true
 ---
-
 > [!borderwiki]
->
 > # Blaïka Yermakova
->
 > ![[../../_assets/img/Eldale Creek-Blaïka.png|Blaïka portrait]]
 >
-> |                       |                        |
-> | --------------------- | ---------------------- |
-> | **Âge**               | 31                     |
-> | **Sexe**              | F                      |
-> | **Date de naissance** | 31/12/1949             |
-> | **Taille**            | 1.88 (ft. 6.22)        |
-> | **Poids**             | 80kg (lbs. 176.37)     |
-> | **Yeux**              | Bleus                  |
-> | **Espèce**            | Frostwolf (loup givré) |
-> | **Pays de naissance** | Russie (URSS)          |
-> | **Expiration date**   | 10/02/1986             |
-> | **Resident Since**    | 10/02/1981             |
+> |  |  |
+> | ---- | ---- |
+> | **Âge** | 32|
+> |**Sexe** | F |
+> | **Date de naissance** | 31/12/1949|
+> | **Taille** | 1.88 (ft. 6.22) |
+> | **Poids** | 80kg (lbs. 176.37) |
+> | **Yeux** |Bleus|
+> | **Espèce** | Frostwolf (loup givré)|
+> | **Pays de naissance** | Russie (URSS) |
+> | **Expiration date** | 22/02/1988 |
+> | **Resident Since** | 22/02/1982 |
 >
 > ### Autres
->
 > ✅ Possède un permis de conduire
 > ✅ Possède un permis de port d'arme
 
 # Physique
-
 ---
 
 Blaïka est impressionnante, dans tous les sens du terme : 80 kilos pour 1,88 m, qui dépassent la plupart des gens qu'elle côtoie. Large d'épaule, musclée, on les distingue sous son uniforme qui est très légèrement trop petit pour elle, ce qui met en avant sa poitrine et son bassin fin. Bien que grande et large, Blaïka n'en demeure pas moins séduisante — pour peu que l'on n'ait pas peur des grandes femmes — et attire l'œil, notamment à cause de ses cheveux roux flamboyants, bouclés, qui tombent dans son dos comme une cascade enflammée.
@@ -71,14 +67,14 @@ Elle possède un visage harmonieux, un petit nez (marqué par une petite cicatri
 > [!lwiki]
 > ![[../../_assets/img/Mara FB Sketch August 2.png|Mara FB Sketch August 2.png]]
 >
-> |                         |                                                                        |
-> | ----------------------- | ---------------------------------------------------------------------- |
-> | **Taille**              | 1m88 (ft. 6.22)                                                        |
-> | **Cheveux**             | Roux                                                                   |
-> | **Peau**                | Blanche                                                                |
-> | **Yeux**                | Bleus                                                                  |
-> | **Style vestimentaire** | Masculin, strict                                                       |
-> | **Traits notables**     | - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br> |
+> |||
+> | --|--|
+> |**Taille** | 1m88 (ft. 6.22)|
+> |**Cheveux** | Roux |
+> |**Peau** | Blanche |
+> | **Yeux** | Bleus |
+> | **Style vestimentaire** | Masculin, strict |
+> |**Traits notables**| - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br>|
 
 Sous forme lupine, elle mesure presque 2,10 m, avec une fourrure épaisse et blanche, recouverte d'une sorte de couche gelée bleutée et miroitante.
 
@@ -99,25 +95,17 @@ Elle n'aime pas spécialement se maquiller, mais le fait au minimum, avec simple
 Pour finir, en termes de chaussure, Blaïka préfèrera des bottes en cuirs, souvent lourdes, proches des Dr. Martens. En été, elle portera des sandales (hors travail) ou des chaussures fines. Généralement, ses chaussures seront noires ou marron. On peut noter que cela ne la gêne pas de se balader pied nus.
 
 # Profil psychologique
-
 ---
-
 > [!wiki]
->
 > ### Identité
->
 > **Civilité** : Célibataire
 > **Métier** : Policière
->
 > ### Aime
->
 > - Les grandes étendues sauvages,
 > - Faire du sport
 > - La neige, le froid
 > - L'alcool, qu'elle tient très bien à cause de sa race et son physique
->
 > ### Déteste
->
 > - L'été, la chaleur et le feu,
 > - Les grandes villes et la foule, ainsi que tout ce qui est environnement urbain : elle a besoin de pouvoir se dégourdir les jambes (et les pattes).
 > - La nourriture épicée, pour les raisons énoncées précédemment en lien avec la chaleur
@@ -144,14 +132,15 @@ Elle est déjà beaucoup moins attentive (presque bête) et bien plus proche d'u
 Elle a un peu honte de cette forme lupine qui est parfois un peu trop excitée pour son propre bien et qui peut se mettre en danger par curiosité, en s'approchant des humains. Heureusement, cela reste un loup avec une certaine sensibilité et il évitera quand même les humains qui ont peur. Mais jamais Blaïka-loup ne se montrera agressive envers qui que ce soit de prime abord et elle n'a jamais attaqué d'humain (sans qu'il l'attaque en premier).
 
 # Passion & Hobbies
-
 - Les balades dans les grandes étendues sauvages
 - Lire
+# Peur et phobie : 
+- Pyrophobie (peur du feu)
+- __Claustrophobie__ : Blaïka ne se sent pas à l’aise dans des petites zones, car cela lui rappelle les cages des camps. C’est encore plus vrai lorsqu’elle est sous forme lupine.
+- __Agoraphobie__ : Elle n’a pas peur des grands espaces, mais plutôt l’idée d’être dans un lieu duquel elle ne pourrait s’échapper et d’être privée de liberté.
 
-# Peur et phobie : Feu
 
 # Biographie
-
 ---
 
 On ne sait pas vraiment d'où viennent les Frostwolves. Apparu au XIVe siècle dans la taïga de Sibérie Russe, certains racontent qu'un groupe de loup-garou ont été maudits par la lune, d'autres, qu'ils ont passé un pacte avec une créature du froid, ou encore descendrait d'une histoire d'amour entre une fée de la Taïga et un loup-garou. La plus simple et logique serait simplement qu'un groupe de loup-garou aurait évolué pour survivre aux températures négatives de Sibérie.
@@ -174,27 +163,26 @@ Voyant que sa famille et ses proches ont tendance à se fourrer dans les problè
 
 Le fait qu'elle soit devenue policière n'est pas forcément vue d'un bon œil par son frère, avec qui elle s'entend mal. Ce dernier, bien qu'ayant jamais mis les pieds en Russie, considère que les Yermakov devraient retourner récupérer leur territoire. Pire, ce dernier se rapproche de groupes et de gangs et ce dernier se retrouve très souvent confronté à sa sœur dans son travail.
 
-La jeune femme travaille bien, est plusieurs fois promu et profite de sa vie (bien que célibataire). Mais, en 1980, elle est confrontée à son frère et sa famille, au point où ce dernier est envoyé en prison : Blaïka refusera de le défendre, d'être corrompu, et se met à dos l'ensemble de son clan. Chez les frostwolf, le bannissement est ce qui peut arriver de plus grave et, ne pouvant supporter d'avoir des contacts avec eux — ce qui augmente les risques de se faire agresser, elle et ses collègues — elle demande une mutation dans un autre état.
+La jeune femme travaille bien, est plusieurs fois promu et profite de sa vie (bien que célibataire). Mais, en 1981, elle est confrontée à son frère et sa famille, au point où ce dernier est envoyé en prison : Blaïka refusera de le défendre, d'être corrompu, et se met à dos l'ensemble de son clan. Chez les frostwolf, le bannissement est ce qui peut arriver de plus grave et, ne pouvant supporter d'avoir des contacts avec eux — ce qui augmente les risques de se faire agresser, elle et ses collègues — elle demande une mutation dans un autre état.
 
-Elle se retrouve donc à Eldale Creek au début de l'année 1981.
+Elle se retrouve donc à Eldale Creek au début de l'année 1982.
+
 
 # Pouvoirs
-
 ---
-
 > [!infobox]
 >
-> |                  |     |
-> | ---------------- | --- |
-> | **Force**        | 15  |
-> | **Endurance**    | 12  |
-> | **Agilité**      | 9   |
-> | **Constitution** | 13  |
-> | **Éducation**    | 7   |
-> | **Intelligence** | 7   |
-> | **Charisme**     | 10  |
-> | **Pouvoir**      | 15  |
-> | **PV**           | 39  |
+> |        |     |
+> | ----------- | --- |
+> | **Force** |  15 |
+> | **Endurance** | 12 |
+> |**Agilité** | 9 |
+> |**Constitution** | 13 |
+> | **Éducation** | 7 |
+> | **Intelligence** |7 |
+> | **Charisme** |10 |
+> | **Pouvoir** |15|
+> | **PV** | 39 |
 
 ## ==Lycanthropie==
 
@@ -209,7 +197,6 @@ Blaïka gagne un bonus (+3) sur ses caractéristiques de **force**, **constituti
 Elle perd (-3) d'éducation, d'**intelligence** et **charisme**
 
 ### Avantages
-
 - Force (surtout sous forme de loup-garou)
 - Rapidité
 - Régénération accrue
@@ -217,13 +204,12 @@ Elle perd (-3) d'éducation, d'**intelligence** et **charisme**
 - Sens de prédateur (détection des bruits, odeur)
 
 ### Limites et faiblesses
-
 - Transformation forcée lors des pleines lunes et lors des pertes de contrôle suite à un choc mental très violent
 - Allergie à l'argent, qui empêche ses régénérations
 - Est plus petite qu'un loup-garou "normal", moins forte. À force égale, elle perdrait contre eux.
 - La transformation la rend plus animale, et son intelligence régresse
 - De même, sa forme (de 2m tout de même !) fait assez peur
-- Les fortes odeurs chimiques
+- Les fortes odeurs chimiques 
 - Les ultrasons
 
 ## ==Froid profond==
@@ -237,18 +223,15 @@ Sous forme humaine, leur pouvoir est beaucoup plus puissant et sont capables de 
 De manière évidente, la plus grande faiblesse des Frostwolves est la chaleur et le feu. Leur brûlure, même sur des températures faibles, sont beaucoup plus importantes et faciles à obtenir. Le soleil d'été est un vrai danger pour eux, car ils sont beaucoup plus sensibles aux brûlures des coups de soleil, desquels ils cicatrisent très mal. Leur pouvoir devient instable, voire impossible à utiliser.
 
 ### Avantages
-
 - Contrôle de la glace
 - Résistance au froid
 
 ### Limites et faiblesses
-
 - Grande faiblesse au feu et à la chaleur : Instabilité voire impossibilité d'utiliser leur pouvoir, régénération diminuée (au delà de 25°C)…
 
 # Trivia
-
 ---
 
 - **Thèmes** : (Pas une playlist history accurate, juste trivia)
-  - [Arknight (Believing)](https://www.youtube.com/watch?v=3PhSl6tNbl4)
-  - [Arknight (Frost nova theme)](https://www.youtube.com/watch?v=vlQUhzCgy6E)
+	- [Arknight (Believing)](https://www.youtube.com/watch?v=3PhSl6tNbl4)
+	- [Arknight (Frost nova theme)](https://www.youtube.com/watch?v=vlQUhzCgy6E)

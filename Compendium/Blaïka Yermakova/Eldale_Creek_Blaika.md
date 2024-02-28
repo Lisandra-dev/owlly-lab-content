@@ -75,10 +75,13 @@ Elle possède un visage harmonieux, un petit nez (marqué par une petite cicatri
 > | **Yeux** | Bleus |
 > | **Style vestimentaire** | Masculin, strict |
 > |**Traits notables**| - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br>|
+## Forme lupine
 
 Sous forme lupine, elle mesure presque 2,10 m, avec une fourrure épaisse et blanche, recouverte d'une sorte de couche gelée bleutée et miroitante.
 
 Son ventre, comme beaucoup d'animaux, est moins recouvert de fourrure qui est moins épaisse et surtout rouge, de la même couleur que ses cheveux.
+
+Il est impossible de savoir que Blaïka est une loup-garou : elle n'a aucune caractéristique physique extérieur qui le signal. Seul les autres loups peuvent sentir une odeur "familière" lorsqu'ils la rencontrent, sans pour autant pouvoir deviner avec certitude la race de la femme : il aura au moins des doute.
 
 ## Voix
 
@@ -105,6 +108,7 @@ Pour finir, en termes de chaussure, Blaïka préfèrera des bottes en cuirs, sou
 > - Faire du sport
 > - La neige, le froid
 > - L'alcool, qu'elle tient très bien à cause de sa race et son physique
+> - Le thé noir "à la russe" et surtout le *Chifir* (auquel elle est accro)
 > ### Déteste
 > - L'été, la chaleur et le feu,
 > - Les grandes villes et la foule, ainsi que tout ce qui est environnement urbain : elle a besoin de pouvoir se dégourdir les jambes (et les pattes).
@@ -132,9 +136,13 @@ Elle est déjà beaucoup moins attentive (presque bête) et bien plus proche d'u
 Elle a un peu honte de cette forme lupine qui est parfois un peu trop excitée pour son propre bien et qui peut se mettre en danger par curiosité, en s'approchant des humains. Heureusement, cela reste un loup avec une certaine sensibilité et il évitera quand même les humains qui ont peur. Mais jamais Blaïka-loup ne se montrera agressive envers qui que ce soit de prime abord et elle n'a jamais attaqué d'humain (sans qu'il l'attaque en premier).
 
 # Passion & Hobbies
+
 - Les balades dans les grandes étendues sauvages
 - Lire
-# Peur et phobie : 
+- Blaïka est plus ou moins accro au [Chifir](https://en.wikipedia.org/wiki/Chifir?useskin=vector), une boisson des goulags préparée à partir de thé noir, et qui correspond à une sorte de shoot de caféine très concentrée. La boisson, en elle-même, est très amère et quasiment imbuvable sauf pour ceux qui y sont accro. Pour Blaïka, la boisson est à peine plus forte qu'un café.
+
+# Peur et phobie
+
 - Pyrophobie (peur du feu)
 - __Claustrophobie__ : Blaïka ne se sent pas à l’aise dans des petites zones, car cela lui rappelle les cages des camps. C’est encore plus vrai lorsqu’elle est sous forme lupine.
 - __Agoraphobie__ : Elle n’a pas peur des grands espaces, mais plutôt l’idée d’être dans un lieu duquel elle ne pourrait s’échapper et d’être privée de liberté.

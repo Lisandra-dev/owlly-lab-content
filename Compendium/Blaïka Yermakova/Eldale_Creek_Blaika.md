@@ -75,6 +75,7 @@ Elle possède un visage harmonieux, un petit nez (marqué par une petite cicatri
 > | **Yeux** | Bleus |
 > | **Style vestimentaire** | Masculin, strict |
 > |**Traits notables**| - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br>|
+## Forme lupine
 
 ## Forme lupine
 
@@ -83,6 +84,7 @@ Sous forme lupine, elle mesure presque 2,10 m, avec une fourrure épaisse et bla
 Son ventre, comme beaucoup d'animaux, est moins recouvert de fourrure qui est moins épaisse et surtout rouge, de la même couleur que ses cheveux.
 
 Il est impossible de savoir que Blaïka est une loup-garou : elle n'a aucune caractéristique physique extérieur qui le signal. Seul les autres loups peuvent sentir une odeur "familière" lorsqu'ils la rencontrent, sans pour autant pouvoir deviner avec certitude la race de la femme.
+
 ## Voix
 
 La voix de Blaïka est marquée par un accent russe qu'elle n'a jamais vraiment perdu, bien qu'elle parle parfaitement anglais, sans faute.

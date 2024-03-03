@@ -12,7 +12,7 @@ univers:
 type:
   - Fiche
 original:
-  - "[[Blaïka Yermakova|Blaïka Yermakova]]"
+  - "[[20. AREA/Concepts/Personnages/Blaïka Yermakova|20. AREA/Concepts/Personnages/Blaïka Yermakova]]"
 image: Eldale Creek-Blaïka.png
 title: Eldale Creek
 name: Eldale_Creek_Blaika
@@ -27,12 +27,13 @@ dataview: true
 total: ""
 Force: 15
 Endurance: 12
-Agilité: 9
-Constitution: 13
+Agilité: 10
+Constitution: 12
 Éducation: 7
 Intelligence: 7
 Charisme: 10
 Pouvoir: 15
+PV: "39"
 ---
 > [!borderwiki]
 > # Blaïka Yermakova
@@ -74,8 +75,8 @@ Elle possède un visage harmonieux, un petit nez (marqué par une petite cicatri
 > |**Peau** | Blanche |
 > | **Yeux** | Bleus |
 > | **Style vestimentaire** | Masculin, strict |
-> |**Traits notables**| - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br>|
-## Forme lupine
+> |**Traits notables**| - Cicatrices (nombreuses) sur les bras <br>- Cicatrices sur le nez<br>
+
 
 ## Forme lupine
 
@@ -83,8 +84,7 @@ Sous forme lupine, elle mesure presque 2,10 m, avec une fourrure épaisse et bla
 
 Son ventre, comme beaucoup d'animaux, est moins recouvert de fourrure qui est moins épaisse et surtout rouge, de la même couleur que ses cheveux.
 
-Il est impossible de savoir que Blaïka est une loup-garou : elle n'a aucune caractéristique physique extérieur qui le signal. Seul les autres loups peuvent sentir une odeur "familière" lorsqu'ils la rencontrent, sans pour autant pouvoir deviner avec certitude la race de la femme.
-
+Il est impossible de savoir que Blaïka est une loup-garou : elle n'a aucune caractéristique physique extérieure qui le signale. Seuls les autres loups peuvent sentir une odeur "familière" lorsqu'ils la rencontrent, sans pour autant pouvoir deviner avec certitude la race de la femme.
 ## Voix
 
 La voix de Blaïka est marquée par un accent russe qu'elle n'a jamais vraiment perdu, bien qu'elle parle parfaitement anglais, sans faute.
@@ -186,8 +186,8 @@ Elle se retrouve donc à Eldale Creek au début de l'année 1982.
 > | ----------- | --- |
 > | **Force** |  15 |
 > | **Endurance** | 12 |
-> |**Agilité** | 9 |
-> |**Constitution** | 13 |
+> |**Agilité** | 10 |
+> |**Constitution** | 12 |
 > | **Éducation** | 7 |
 > | **Intelligence** |7 |
 > | **Charisme** |10 |
@@ -203,8 +203,8 @@ En tant que frostwolf, Blaïka est plus petite qu'une louve normale, et moins fo
 La couleur blanche et bleue de leur pelage leur permet de se faufiler dans la neige, les rendant furtifs.
 
 Sous forme de loup :
-Blaïka gagne un bonus (+3) sur ses caractéristiques de **force**, **constitution** et **agilité**
-Elle perd (-3) d'éducation, d'**intelligence** et **charisme**
+Blaïka gagne un bonus (+3) sur ses caractéristiques de **force**, **endurance** et **agilité**
+Elle perd (-3) d'éducation, d'**intelligence** et **constitution** (*force et santé mentale*)
 
 ### Avantages
 - Force (surtout sous forme de loup-garou)
